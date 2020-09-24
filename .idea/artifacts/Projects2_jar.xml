@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Projects2:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="root">
+      <element id="archive" name="Projects2.jar">
+        <element id="module-output" name="Projects2" />
+      </element>
+      <element id="library" level="project" name="dummy-connector" />
+    </root>
+  </artifact>
+</component>
